@@ -1,0 +1,19 @@
+{
+  "name"         : "transactional-memory",
+  "main"         : "./transactional-memory.js",
+  "version"      : "0.1.0",
+  "homepage"     : "https://github.com/alexeypetrushin/transactional-memory",
+  "dependencies" : {
+    "underscore" : "1.5.x"
+  },
+  "developmentDependencies" : {
+    "chai" : "1.8.x"
+  },
+  "description"  : "Transactional Memory for JavaScript",
+  "keywords"     : ["Model", "Data", "Memory", "Database"],
+  "author"       : {
+    "name" : "Alexey Petrushin",
+    "url"  : "http://petrush.in"
+  },
+  "license"      : "MIT"
+}
